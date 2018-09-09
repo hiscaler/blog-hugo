@@ -1,0 +1,9 @@
+baseURL = "http://hiscaler.github.io/"
+languageCode = "zh-cn"
+title = "一亩三分"
+theme = "hyde"
+hasCJKLanguage = true
+[params]
+themeColor = "theme-base-08"
+description = "春种、夏耕、秋收、冬尝"
+copyright = "Copyright (c) 2018, hiscaler"
