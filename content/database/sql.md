@@ -5,7 +5,7 @@ date: 2018-09-09T22:38:20+08:00
 draft: false
 ---
 
-##删除重复记录
+## 删除重复记录
 ```sql
 SELECT id,
  node_id,
