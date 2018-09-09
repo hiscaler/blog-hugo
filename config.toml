@@ -37,4 +37,9 @@ description = "春种、夏耕、秋收、冬尝"
     pre = "<i class='fa fa-road'></i>"
     weight = -100
     url = "/linux/"
+[[menu.main]]
+    name = "Tools"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/tools/"
 
