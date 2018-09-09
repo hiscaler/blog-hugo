@@ -6,4 +6,35 @@ hasCJKLanguage = true
 [params]
 themeColor = "theme-base-08"
 description = "春种、夏耕、秋收、冬尝"
-copyright = "Copyright (c) 2018, hiscaler"
+[[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "PHP"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/php/"
+[[menu.main]]
+    name = "Java"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/java/"
+[[menu.main]]
+    name = "Go"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/go/"
+[[menu.main]]
+    name = "Database"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/database/"
+[[menu.main]]
+    name = "Linux"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/linux/"
+
